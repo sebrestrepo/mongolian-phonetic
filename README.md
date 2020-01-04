@@ -1,7 +1,7 @@
 Mongolian-phonetic keyboard layout for OSX
 ==========================================
 
-Cloned from https://github.com/amgaa/mongolian-phonetic
+Cloned from https://github.com/batbayar-su/mongolian-phonetic
 `Ukelele-г шинэчилж, алдаатай хэсгүүдийг засаж илүү сайжруулсан`
 
 Яг Латин үсгээр бичиж байгаа юм шиг криллээр бичих OSX-д зориулсан
@@ -22,7 +22,7 @@ keyboard layout.
 ```
 ц -> ts эсвэл c
 ч -> ch
-ш -> sh
+ш -> sh эсвэл x
 я -> ya
 е -> ye
 ё -> yo
@@ -39,6 +39,8 @@ keyboard layout.
 ы -> y
 ь -> ;;
 ъ -> ::
+` -> №
+$ -> ₮
 ```
 
 Суулгахдаа:
