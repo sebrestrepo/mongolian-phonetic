@@ -23,13 +23,13 @@ keyboard layout.
 ц -> ts эсвэл c
 ч -> ch
 ш -> sh эсвэл x
+ө -> q
+ү -> w
+в -> v
 я -> ya
 е -> ye
 ё -> yo
 ю -> yu
-ө -> q
-ү -> w
-в -> v
 ай -> ai
 эй -> ei
 ой -> oi
