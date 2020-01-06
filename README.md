@@ -26,6 +26,7 @@ keyboard layout.
 я -> ya
 е -> ye
 ё -> yo
+ю -> yu
 ө -> q
 ү -> w
 в -> v
